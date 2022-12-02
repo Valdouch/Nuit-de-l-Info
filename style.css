@@ -1,0 +1,100 @@
+.post-navigation {
+    display: none;
+}
+
+.humanitas-breadcrumbs {
+    display: block;
+    width: 100%;
+    padding: 90px 0;
+    background: rgba(36, 40, 47, 0);
+    text-align: center;
+}
+
+.humanitas-breadcrumbs .breadcrumb-title {
+	font: bold 3em "arial";
+    color: #ffffff;
+}
+
+.humanitas-breadcrumbs .breadcrumbs-wrap {
+	 display: none;
+}
+
+.entry-header .entry-meta {
+    display:none;
+}
+
+.entry-header img {
+    display:none;
+}
+
+.site-header #search-button {
+    display: none;
+}
+
+
+.entry-header .entry-title {
+    display: none;
+}
+
+.footer-logo-text a {
+    display: none;
+}
+
+.entry-content blockquote::before {
+    display: none;
+}
+
+#colophon .footer-container {
+    padding-top: 0px;
+    padding-bottom: 25px;
+}
+
+#colophon .footer-container .footer-col {
+    padding-top: 10px;
+}
+
+.vc_row::after, .vc_row::before {
+    content: " ";
+    display: table;
+    padding-top: 10px;
+}
+
+.underline_section_header p {
+    padding-bottom: 0px;
+}
+
+.feature {
+    padding-top: 15px;
+}
+
+.col-sm-9 {
+    width: 80%;
+}
+
+.col-sm-3 {
+    width: 20%;
+}
+
+.btn-update-btnmain, .button-container-likes-dislike {
+    width: 96%;
+    background: #fff0;
+    display: flow-root;
+    margin-top: 24px;
+    transition: all .4s;
+}	
+.site-content {
+    padding-top: 70px;
+}
+
+.wpb_button, .wpb_content_element, ul.wpb_thumbnails-fluid > li {
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.vc_row::after, .vc_row::before {
+    content: " ";
+    display: table;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+.wpb_animate_when_almost_visible { opacity: 1; }
