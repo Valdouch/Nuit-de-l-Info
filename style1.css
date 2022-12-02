@@ -13,8 +13,8 @@
     }
     
     p{
-        font-size: 14px;
-        line-height: 22px;
+        font-size: 40px;
+        text-align: center;
     }
     
     h1{
@@ -172,6 +172,9 @@
         background-color: #ff9900;
         margin-top: 10px;
     }
-    div.div.figure{
-        width: 50px;
+    iframe{
+        width: 2000px;
+        margin: auto;
+        display: block;
+        text-align: center;
     }
