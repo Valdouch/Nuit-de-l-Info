@@ -135,8 +135,8 @@
     }
     
     #headline .in {
-        padding-top: 340px;
-        padding-bottom: 100px;
+        padding-top: 50px;
+        padding-bottom: 30px;
     }
     
     #headline h1 {
@@ -149,17 +149,6 @@
         font-size: 16px;
     
     }
-    #feature .in ul li {
-        height: 160px;
-        width: 280px;
-        margin-top: 20px;
-        margin-bottom: 20px;
-        margin-right: 10px;
-        margin-left: 10px;
-        float: left;
-        background: url("/tiger-pencil.jpg");
-        background-size: cover;
-    }
     
     #feature .in ul li span a {
         color: white ;
@@ -171,7 +160,4 @@
         padding: 10px;
         background-color: #ff9900;
         margin-top: 10px;
-    }
-    div.div.figure{
-        width: 50px;
     }
